@@ -1,0 +1,19 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Curso de TDD com Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeiteRafael/js-tdd.git"
+  },
+  "author": "Rafael Leite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeiteRafael/js-tdd/issues"
+  },
+  "homepage": "https://github.com/LeiteRafael/js-tdd#readme"
+}
